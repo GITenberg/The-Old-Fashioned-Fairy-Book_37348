@@ -1,0 +1,50 @@
+_repo: The-Old-Fashioned-Fairy-Book_37348
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sherwood, Rosina Emmet
+    aliases:
+    - Emmet, Rosina
+    - Emmett, Rosina
+    - Sherwood, Mrs. Arthur M.
+    birthdate: 1854
+    deathdate: 1948
+    gutenberg_agent_id: '38784'
+    url: http://www.gutenberg.org/2009/agents/38784
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Burton, Mrs.
+    aliases:
+    - Harrison, Constance Cary
+    - Harrison, Mrs. Burton
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '38783'
+    url: http://www.gutenberg.org/2009/agents/38783
+description: ''
+gutenberg_issued: '2011-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: 'Introduction -- Princess Eglantine -- Dame Martha''s step-daughter;
+  or, the grandmother of the gnomes -- The adventures of Ha''penny; or, the dwarf,
+  the witch, and the magic slippers -- Sybilla, Myrtillo, and Furioso -- Annette;
+  or, the magic coffee-mill -- Juliet; or, the little white mouse -- The fairies and
+  the fiddler -- Ethelinda; or, the Ice King''s bride -- Deep-sea violets -- The wild
+  woodsman -- The frozen hearth-fairy -- Rosy''s stay-at-home parties -- Blondina;
+  or, the Turkey-Queen -- Timid Agnes -- The Ogress and the cook -- Miss Peggy and
+  the frog -- The Leperhaun: a legend of the emerald isle -- The trials of Sir Isumbras
+  -- Bisclaveret -- Roswal and Lilian -- Eliduc and Guilliadun -- The Falcon-King
+  -- Sir Eglamour and Crystabell.'
+title: The Old-Fashioned Fairy Book
+url: http://www.gutenberg.org/ebooks/37348
